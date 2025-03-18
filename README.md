@@ -1,3 +1,3 @@
 Early stage of the Mini Heist game for the Playdate Console (By Panic).
-
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+https://github.com/azmawee/mini-heist/blob/main/Screenshot.jpg
+![Alt text](/github.com/azmawee/mini-heist/blob/main/Screenshot.jpg?raw=true "Mini Heist")
